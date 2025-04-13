@@ -1,4 +1,4 @@
-# Spotify  SQL Project 
+# SQL  Spotify Project 
 
 ## Overview
 This project involves analyzing a Spotify dataset from kaggle  with various attributes about tracks, albums, and artists using **SQL**. 
