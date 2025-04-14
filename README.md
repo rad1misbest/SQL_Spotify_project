@@ -1,4 +1,4 @@
-# SQL  Spotify Project 
+# SQL  Spotify Project and visualization in Power BI
 
 ## Overview
 This project involves analyzing a Spotify dataset from kaggle  with various attributes about tracks, albums, and artists using **SQL**. 
